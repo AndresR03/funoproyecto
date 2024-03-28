@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Personaje1 : MonoBehaviour
+public class Personaje1: MonoBehaviour
 {
     public float velocidadM = 5.0f;
     public float velocidadR = 200.0f;
